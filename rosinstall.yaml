@@ -1,5 +1,5 @@
 repositories:
   car_demo:
     type: git
-    url: git@github.com:NovoG93/car_demo.git
+    url: https://github.com/NovoG93/car_demo.git
     version: ros2
